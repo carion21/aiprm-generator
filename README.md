@@ -19,5 +19,9 @@ Ce projet est un générateur de prompts automatisé qui permet de créer des fi
 
 Pour exécuter le générateur de prompts, lancez le script `main.py` :
 
+#### Exemple d'utilisation
+
+![Capture de test](images/capture-test.png)
+
 ```sh
 python [main.py](http://_vscodecontentref_/##%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fcarion%2Fzeus%2Fgeasscorp%2Faiprm-generator%2Fmain.py%22%2C%22path%22%3A%22%2FUsers%2Fcarion%2Fzeus%2Fgeasscorp%2Faiprm-generator%2Fmain.py%22%2C%22scheme%22%3A%22file%22%7D%7D)
